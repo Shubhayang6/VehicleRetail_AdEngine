@@ -1,0 +1,36 @@
+{
+  "kafka": {
+    "bootstrap_servers": ["localhost:9092"],
+    "consumer_topics": [
+      "sensor-data-topic",
+      "health-data-topic", 
+      "behavior-topic",
+      "environment-topic"
+    ],
+    "producer_topics": {
+      "ml_pipeline": "ml-input-topic",
+      "ad_engine": "ad-input-topic",
+      "maintenance_alerts": "maintenance-topic"
+    },
+    "consumer_group": "data-processor-group"
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "vehicle_data.db"
+  },
+  "processing": {
+    "batch_size": 10,
+    "processing_interval": 1.0,
+    "enable_anomaly_detection": true,
+    "health_score_threshold": 0.7,
+    "maintenance_threshold": 0.3
+  },
+  "apis": {
+    "ml_service_url": "http://localhost:5001",
+    "ad_service_url": "http://localhost:5002", 
+    "maintenance_service_url": "http://localhost:5003"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
