@@ -1,0 +1,58 @@
+@startuml Local_Architecture_No_Cloud
+!define RECTANGLE class
+allow_mixing
+
+' Simulated Vehicle Components
+component "Simulated Sensors (CSV/JSON)" as SimSensors
+component "Telematics ECU Simulator (Python)" as TelematicsECU
+component "Infotainment Dashboard (React/Web)" as InfotainmentSystem
+
+' Local Data Processing
+component "Local Message Broker (Apache Kafka)" as MessageBroker
+component "Local Database (PostgreSQL/MongoDB)" as LocalDB
+component "Data Processing Service (Python/Flask)" as DataProcessor
+component "ML Pipeline (Jupyter/Scikit-learn)" as MLPipeline
+
+' Business Logic Services
+component "Predictive Maintenance Service (Python)" as MaintenanceService
+component "Ad & Recommendation Engine (Python)" as AdEngine
+component "Local E-commerce API (Flask/FastAPI)" as EcommerceAPI
+component "Payment Simulator (Mock Service)" as PaymentSim
+component "Email Simulator (SMTP/File)" as EmailSim
+component "Service Scheduler (Local API)" as ServiceScheduler
+
+' User Interface
+component "Mobile/Web Portal (React)" as WebPortal
+component "Calendar Integration (Local)" as LocalCalendar
+
+' External Simulation
+component "Maps API Simulator (OpenStreetMap)" as MapsSim
+component "OEM Service Center Mock API" as ServiceCenterAPI
+
+' Data Flow
+SimSensors --> TelematicsECU : CSV/JSON data streams
+TelematicsECU --> MessageBroker : Publishes telemetry
+MessageBroker --> DataProcessor : Consumes data
+DataProcessor --> LocalDB : Stores processed data
+DataProcessor --> MLPipeline : Feeds ML models
+MLPipeline --> MaintenanceService : Predictions
+MaintenanceService --> InfotainmentSystem : Maintenance alerts
+MaintenanceService --> WebPortal : Notifications
+MaintenanceService --> ServiceScheduler : Schedule requests
+ServiceScheduler --> ServiceCenterAPI : Book appointments
+ServiceScheduler --> LocalCalendar : Calendar updates
+
+' Advertisement & E-commerce Flow
+DataProcessor --> AdEngine : User behavior data
+AdEngine --> InfotainmentSystem : Contextual ads
+InfotainmentSystem --> EcommerceAPI : Product orders
+EcommerceAPI --> PaymentSim : Process payment
+PaymentSim --> EcommerceAPI : Payment confirmation
+EcommerceAPI --> EmailSim : Order confirmation
+EmailSim --> WebPortal : Email notifications
+
+' Additional integrations
+AdEngine --> MapsSim : Location-based ads
+ServiceScheduler --> MapsSim : Find nearest centers
+
+@enduml

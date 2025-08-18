@@ -1,0 +1,60 @@
+@startuml Vehicle_Architecture_Predictive_Maintenance
+!define RECTANGLE class
+allow_mixing
+
+component "Telematics ECU" as TelematicsECU
+component "Sensors" as Sensors
+component "Infotainment System" as InfotainmentSystem
+
+RECTANGLE IoT_Gateway {
+  Secure Data Transmission
+  OTA Updates
+}
+
+component "AWS IoT Core" as IoTCore
+component "Data Lake (S3)" as DataLake
+component "Kinesis/Data Streams" as Kinesis
+component "Lambda Functions" as Lambda
+component "SageMaker (ML Models)" as SageMaker
+component "Agentic AI Service" as AgenticAI
+component "Personalization/Ad Engine" as AdEngine
+component "OEM Retail Recommendation Engine" as RetailEngine
+component "E-commerce API & OEM Portal" as EcommerceAPI
+component "Payment Services (QR/Online)" as PaymentServices
+component "Email Service" as EmailService
+component "Maps & Calendar Integration" as MapsCal
+
+RECTANGLE User {
+  Mobile App/Web Portal
+  Calendar
+  Email Account
+}
+
+RECTANGLE OEM_Service_Center {
+  Service Scheduling API
+}
+
+TelematicsECU --> IoT_Gateway : Sends telemetry data
+Sensors --> TelematicsECU : Sensor data
+IoT_Gateway -down-> IoTCore : Securely transmits data
+IoTCore --> Kinesis : Data ingestion
+Kinesis --> DataLake : Stores raw data
+Kinesis --> Lambda : Event processing
+Lambda --> SageMaker : Triggers ML inference
+SageMaker --> AgenticAI : Predictive maintenance
+AgenticAI --> User : Predictive alerts, service booking
+AgenticAI --> OEM_Service_Center : Schedule service
+AgenticAI --> MapsCal : Location/calendar access
+AgenticAI --> AdEngine : Ad recommendations
+AdEngine --> RetailEngine : Retail product suggestions
+RetailEngine --> InfotainmentSystem : Product recommendations
+InfotainmentSystem --> EcommerceAPI : Place order
+EcommerceAPI --> PaymentServices : Payment processing
+PaymentServices --> EcommerceAPI : Payment confirmation
+EcommerceAPI --> EmailService : Send order updates
+EmailService --> User : Order confirmation & updates
+AdEngine --> InfotainmentSystem : Ads on display
+TelematicsECU --> InfotainmentSystem : Alerts on display
+User --> Calendar : Books service
+
+@enduml

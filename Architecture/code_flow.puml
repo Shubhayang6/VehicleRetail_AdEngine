@@ -1,0 +1,42 @@
+@startuml Code_Flow_Predictive_Maintenance_Ecommerce
+
+start
+
+:Vehicle Sensors collect data;
+:Telematics ECU aggregates and preprocesses data;
+:Onboard AI Module analyzes driver behavior;
+:Send telemetry data to IoT Gateway;
+
+:IoT Gateway securely transmits data to AWS IoT Core;
+
+:AWS IoT Core ingests data;
+:Kinesis/Data Streams process data in real-time;
+:Lambda Functions filter/transform events;
+:SageMaker ML Models predict maintenance needs;
+
+if (Maintenance predicted?) then (yes)
+  :Agentic AI Service notifies user via Infotainment System;
+  :Agentic AI Service suggests service scheduling;
+  :Maps & Calendar Integration finds nearest OEM Service Center;
+  :User books service (via Infotainment or Mobile/Web);
+  :Service Scheduling API confirms booking;
+else (no)
+endif
+
+:Agentic AI Service requests Ad recommendations;
+:Personalization/Ad Engine generates context-aware ads;
+:Ad Engine requests product suggestions from Retail Recommendation Engine;
+:Retail Recommendation Engine sends product recommendations to Infotainment System;
+
+if (User selects product?) then (yes)
+  :Infotainment System calls E-commerce API & OEM Portal;
+  :User initiates payment via Payment Services (QR/Online);
+  :Payment Services confirm payment;
+  :E-commerce API places order;
+  :Email Service sends order confirmation & updates to user;
+else (no)
+endif
+
+stop
+
+@enduml
