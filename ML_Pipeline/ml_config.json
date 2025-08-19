@@ -1,0 +1,49 @@
+{
+  "model_settings": {
+    "failure_prediction": {
+      "model_type": "random_forest",
+      "n_estimators": 100,
+      "max_depth": 10,
+      "random_state": 42,
+      "test_size": 0.2
+    },
+    "maintenance_urgency": {
+      "model_type": "gradient_boosting", 
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 6
+    },
+    "component_health": {
+      "model_type": "support_vector_regression",
+      "kernel": "rbf",
+      "C": 1.0,
+      "gamma": "scale"
+    }
+  },
+  "feature_engineering": {
+    "time_windows": [1, 3, 7, 30],
+    "aggregations": ["mean", "std", "min", "max"],
+    "health_thresholds": {
+      "engine": 0.6,
+      "brake": 0.7,
+      "tire": 0.8
+    }
+  },
+  "prediction_thresholds": {
+    "high_risk": 0.8,
+    "medium_risk": 0.5,
+    "low_risk": 0.2
+  },
+  "maintenance_categories": {
+    "engine": ["oil_change", "filter_replacement", "cooling_system"],
+    "brake": ["brake_pad_replacement", "brake_fluid", "rotor_service"],
+    "tire": ["tire_rotation", "pressure_check", "alignment"],
+    "general": ["inspection", "battery_check", "fluid_top_up"]
+  },
+  "data_sources": {
+    "input_path": "../Data_Processing/output/ml_pipeline/ml_input_data.jsonl",
+    "training_data": "../Dataset_Generation/datasets/",
+    "model_output": "models/",
+    "predictions_output": "predictions/"
+  }
+}

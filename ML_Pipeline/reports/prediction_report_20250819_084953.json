@@ -1,0 +1,26 @@
+{
+  "report_timestamp": "2025-08-19 08:49:53",
+  "summary": {
+    "total_vehicles_analyzed": 5,
+    "average_failure_probability": 0.283,
+    "average_maintenance_urgency": 0.273,
+    "average_prediction_confidence": 0.76
+  },
+  "risk_distribution": {
+    "high": 0,
+    "medium": 0,
+    "low": 5
+  },
+  "component_health_outlook": {
+    "average_engine_health": 0.614,
+    "average_brake_health": 0.692,
+    "average_tire_health": 0.921
+  },
+  "processing_statistics": {
+    "total_predictions": 5,
+    "high_risk_vehicles": 0,
+    "medium_risk_vehicles": 0,
+    "low_risk_vehicles": 5,
+    "maintenance_alerts_generated": 4
+  }
+}
