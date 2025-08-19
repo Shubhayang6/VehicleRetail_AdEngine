@@ -1,0 +1,3109 @@
+{
+  "generated_at": "2025-08-19T09:54:59.059793",
+  "total_products": 108,
+  "categories": [
+    "automotive_parts",
+    "maintenance_tools",
+    "accessories",
+    "emergency_gear",
+    "performance_upgrades"
+  ],
+  "products": [
+    {
+      "product_id": "PROD_0001",
+      "name": "Mobil 1 Premium Oil Filter",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 22.53,
+      "description": "High-quality premium oil filter from Mobil 1. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Mobil 1",
+      "rating": 3.6,
+      "reviews_count": 472,
+      "in_stock": true,
+      "stock_quantity": 91,
+      "image_url": "https://images.autoparts.com/prod_0001.jpg",
+      "specifications": {
+        "filter_type": "Spin-on",
+        "filtration_rating": "25 microns",
+        "capacity": "4.7 quarts",
+        "warranty": "3 years",
+        "weight": "5.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "mobil 1",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0002",
+      "name": "Mobil 1 Premium Oil Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 43.44,
+      "description": "High-quality premium oil filter from Mobil 1. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Mobil 1",
+      "rating": 4.7,
+      "reviews_count": 75,
+      "in_stock": true,
+      "stock_quantity": 78,
+      "image_url": "https://images.autoparts.com/prod_0002.jpg",
+      "specifications": {
+        "filter_type": "Spin-on",
+        "filtration_rating": "15 microns",
+        "capacity": "4.4 quarts",
+        "warranty": "5 years",
+        "weight": "0.7 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "mobil 1",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0003",
+      "name": "Fram Premium Oil Filter",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 38.61,
+      "description": "High-quality premium oil filter from Fram. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Fram",
+      "rating": 4.6,
+      "reviews_count": 141,
+      "in_stock": true,
+      "stock_quantity": 26,
+      "image_url": "https://images.autoparts.com/prod_0003.jpg",
+      "specifications": {
+        "filter_type": "Spin-on",
+        "filtration_rating": "22 microns",
+        "capacity": "5.8 quarts",
+        "warranty": "4 years",
+        "weight": "2.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "fram",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0004",
+      "name": "Fram Premium Oil Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 30.72,
+      "description": "High-quality premium oil filter from Fram. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Fram",
+      "rating": 4.6,
+      "reviews_count": 298,
+      "in_stock": true,
+      "stock_quantity": 10,
+      "image_url": "https://images.autoparts.com/prod_0004.jpg",
+      "specifications": {
+        "filter_type": "Spin-on",
+        "filtration_rating": "16 microns",
+        "capacity": "4.8 quarts",
+        "warranty": "3 years",
+        "weight": "3.7 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "fram",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0005",
+      "name": "Bosch Premium Oil Filter",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 19.15,
+      "description": "High-quality premium oil filter from Bosch. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bosch",
+      "rating": 3.6,
+      "reviews_count": 85,
+      "in_stock": true,
+      "stock_quantity": 17,
+      "image_url": "https://images.autoparts.com/prod_0005.jpg",
+      "specifications": {
+        "filter_type": "Spin-on",
+        "filtration_rating": "18 microns",
+        "capacity": "4.1 quarts",
+        "warranty": "1 years",
+        "weight": "1.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "bosch",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0006",
+      "name": "Bosch Premium Oil Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "oil_filters",
+      "price": 27.56,
+      "description": "High-quality premium oil filter from Bosch. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bosch",
+      "rating": 4.4,
+      "reviews_count": 78,
+      "in_stock": false,
+      "stock_quantity": 84,
+      "image_url": "https://images.autoparts.com/prod_0006.jpg",
+      "specifications": {
+        "filter_type": "Cartridge",
+        "filtration_rating": "22 microns",
+        "capacity": "4.0 quarts",
+        "warranty": "4 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "oil_filters",
+        "bosch",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0007",
+      "name": "K&N High-Flow Air Filter",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 53.26,
+      "description": "High-quality high-flow air filter from K&N. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "K&N",
+      "rating": 4.6,
+      "reviews_count": 467,
+      "in_stock": false,
+      "stock_quantity": 22,
+      "image_url": "https://images.autoparts.com/prod_0007.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "2.8 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "k&n",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0008",
+      "name": "K&N High-Flow Air Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 47.54,
+      "description": "High-quality high-flow air filter from K&N. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "K&N",
+      "rating": 3.8,
+      "reviews_count": 201,
+      "in_stock": true,
+      "stock_quantity": 94,
+      "image_url": "https://images.autoparts.com/prod_0008.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "3.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "k&n",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0009",
+      "name": "AEM High-Flow Air Filter",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 36.76,
+      "description": "High-quality high-flow air filter from AEM. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AEM",
+      "rating": 3.9,
+      "reviews_count": 94,
+      "in_stock": true,
+      "stock_quantity": 47,
+      "image_url": "https://images.autoparts.com/prod_0009.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "3.2 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "aem",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0010",
+      "name": "AEM High-Flow Air Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 20.87,
+      "description": "High-quality high-flow air filter from AEM. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AEM",
+      "rating": 4.8,
+      "reviews_count": 270,
+      "in_stock": true,
+      "stock_quantity": 59,
+      "image_url": "https://images.autoparts.com/prod_0010.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "4.3 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "aem",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0011",
+      "name": "Spectre High-Flow Air Filter",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 59.64,
+      "description": "High-quality high-flow air filter from Spectre. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Spectre",
+      "rating": 3.5,
+      "reviews_count": 294,
+      "in_stock": true,
+      "stock_quantity": 12,
+      "image_url": "https://images.autoparts.com/prod_0011.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "2.1 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "spectre",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0012",
+      "name": "Spectre High-Flow Air Filter - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "air_filters",
+      "price": 44.96,
+      "description": "High-quality high-flow air filter from Spectre. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Spectre",
+      "rating": 4.4,
+      "reviews_count": 187,
+      "in_stock": true,
+      "stock_quantity": 34,
+      "image_url": "https://images.autoparts.com/prod_0012.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.4 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "air_filters",
+        "spectre",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0013",
+      "name": "Brembo Ceramic Brake Pads",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 184.86,
+      "description": "High-quality ceramic brake pads from Brembo. Features ceramic construction. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Brembo",
+      "rating": 3.6,
+      "reviews_count": 377,
+      "in_stock": true,
+      "stock_quantity": 30,
+      "image_url": "https://images.autoparts.com/prod_0013.jpg",
+      "specifications": {
+        "material": "Ceramic",
+        "noise_level": "Medium",
+        "dust_level": "Medium",
+        "warranty": "4 years",
+        "weight": "3.1 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "brembo",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0014",
+      "name": "Brembo Ceramic Brake Pads - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 93.71,
+      "description": "High-quality ceramic brake pads from Brembo. Features ceramic construction. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Brembo",
+      "rating": 4.9,
+      "reviews_count": 331,
+      "in_stock": true,
+      "stock_quantity": 40,
+      "image_url": "https://images.autoparts.com/prod_0014.jpg",
+      "specifications": {
+        "material": "Ceramic",
+        "noise_level": "Low",
+        "dust_level": "Dust-Free",
+        "warranty": "4 years",
+        "weight": "2.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "brembo",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0015",
+      "name": "EBC Ceramic Brake Pads",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 106.82,
+      "description": "High-quality ceramic brake pads from EBC. Features semi-metallic construction. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "EBC",
+      "rating": 3.7,
+      "reviews_count": 348,
+      "in_stock": true,
+      "stock_quantity": 6,
+      "image_url": "https://images.autoparts.com/prod_0015.jpg",
+      "specifications": {
+        "material": "Semi-Metallic",
+        "noise_level": "Medium",
+        "dust_level": "Dust-Free",
+        "warranty": "2 years",
+        "weight": "4.9 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "ebc",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0016",
+      "name": "EBC Ceramic Brake Pads - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 123.2,
+      "description": "High-quality ceramic brake pads from EBC. Features organic construction. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "EBC",
+      "rating": 3.9,
+      "reviews_count": 64,
+      "in_stock": true,
+      "stock_quantity": 32,
+      "image_url": "https://images.autoparts.com/prod_0016.jpg",
+      "specifications": {
+        "material": "Organic",
+        "noise_level": "Ultra-Quiet",
+        "dust_level": "Dust-Free",
+        "warranty": "2 years",
+        "weight": "1.8 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "ebc",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0017",
+      "name": "StopTech Ceramic Brake Pads",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 83.4,
+      "description": "High-quality ceramic brake pads from StopTech. Features semi-metallic construction. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "StopTech",
+      "rating": 4.0,
+      "reviews_count": 100,
+      "in_stock": true,
+      "stock_quantity": 74,
+      "image_url": "https://images.autoparts.com/prod_0017.jpg",
+      "specifications": {
+        "material": "Semi-Metallic",
+        "noise_level": "Low",
+        "dust_level": "Dust-Free",
+        "warranty": "1 years",
+        "weight": "3.7 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "stoptech",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0018",
+      "name": "StopTech Ceramic Brake Pads - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "brake_pads",
+      "price": 145.67,
+      "description": "High-quality ceramic brake pads from StopTech. Features semi-metallic construction. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "StopTech",
+      "rating": 3.8,
+      "reviews_count": 76,
+      "in_stock": true,
+      "stock_quantity": 51,
+      "image_url": "https://images.autoparts.com/prod_0018.jpg",
+      "specifications": {
+        "material": "Semi-Metallic",
+        "noise_level": "Ultra-Quiet",
+        "dust_level": "Dust-Free",
+        "warranty": "5 years",
+        "weight": "1.7 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "brake_pads",
+        "stoptech",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0019",
+      "name": "Michelin All-Season Tire",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 135.09,
+      "description": "High-quality all-season tire from Michelin. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Michelin",
+      "rating": 4.9,
+      "reviews_count": 79,
+      "in_stock": true,
+      "stock_quantity": 98,
+      "image_url": "https://images.autoparts.com/prod_0019.jpg",
+      "specifications": {
+        "size": "215/60R16",
+        "tread_life": "57k miles",
+        "speed_rating": "V",
+        "warranty": "4 years",
+        "weight": "2.4 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "michelin",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0020",
+      "name": "Michelin All-Season Tire - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 207.64,
+      "description": "High-quality all-season tire from Michelin. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Michelin",
+      "rating": 3.7,
+      "reviews_count": 110,
+      "in_stock": true,
+      "stock_quantity": 68,
+      "image_url": "https://images.autoparts.com/prod_0020.jpg",
+      "specifications": {
+        "size": "225/65R17",
+        "tread_life": "42k miles",
+        "speed_rating": "V",
+        "warranty": "5 years",
+        "weight": "4.4 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "michelin",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0021",
+      "name": "Bridgestone All-Season Tire",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 207.83,
+      "description": "High-quality all-season tire from Bridgestone. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bridgestone",
+      "rating": 4.3,
+      "reviews_count": 482,
+      "in_stock": true,
+      "stock_quantity": 60,
+      "image_url": "https://images.autoparts.com/prod_0021.jpg",
+      "specifications": {
+        "size": "215/60R16",
+        "tread_life": "62k miles",
+        "speed_rating": "V",
+        "warranty": "2 years",
+        "weight": "3.3 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "bridgestone",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0022",
+      "name": "Bridgestone All-Season Tire - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 292.87,
+      "description": "High-quality all-season tire from Bridgestone. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bridgestone",
+      "rating": 3.6,
+      "reviews_count": 409,
+      "in_stock": true,
+      "stock_quantity": 46,
+      "image_url": "https://images.autoparts.com/prod_0022.jpg",
+      "specifications": {
+        "size": "215/60R16",
+        "tread_life": "64k miles",
+        "speed_rating": "W",
+        "warranty": "5 years",
+        "weight": "1.1 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "bridgestone",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0023",
+      "name": "Continental All-Season Tire",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 212.28,
+      "description": "High-quality all-season tire from Continental. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Continental",
+      "rating": 3.7,
+      "reviews_count": 424,
+      "in_stock": true,
+      "stock_quantity": 35,
+      "image_url": "https://images.autoparts.com/prod_0023.jpg",
+      "specifications": {
+        "size": "215/60R16",
+        "tread_life": "80k miles",
+        "speed_rating": "W",
+        "warranty": "3 years",
+        "weight": "2.9 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "continental",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0024",
+      "name": "Continental All-Season Tire - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "tires",
+      "price": 222.21,
+      "description": "High-quality all-season tire from Continental. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Continental",
+      "rating": 4.9,
+      "reviews_count": 440,
+      "in_stock": true,
+      "stock_quantity": 92,
+      "image_url": "https://images.autoparts.com/prod_0024.jpg",
+      "specifications": {
+        "size": "225/65R17",
+        "tread_life": "71k miles",
+        "speed_rating": "W",
+        "warranty": "3 years",
+        "weight": "3.0 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "tires",
+        "continental",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0025",
+      "name": "Optima AGM Battery",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 249.77,
+      "description": "High-quality agm battery from Optima. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Optima",
+      "rating": 4.9,
+      "reviews_count": 262,
+      "in_stock": true,
+      "stock_quantity": 61,
+      "image_url": "https://images.autoparts.com/prod_0025.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.7 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "optima",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0026",
+      "name": "Optima AGM Battery - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 207.27,
+      "description": "High-quality agm battery from Optima. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Optima",
+      "rating": 4.3,
+      "reviews_count": 108,
+      "in_stock": true,
+      "stock_quantity": 95,
+      "image_url": "https://images.autoparts.com/prod_0026.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "1.2 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "optima",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0027",
+      "name": "Interstate AGM Battery",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 208.64,
+      "description": "High-quality agm battery from Interstate. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Interstate",
+      "rating": 4.8,
+      "reviews_count": 124,
+      "in_stock": true,
+      "stock_quantity": 67,
+      "image_url": "https://images.autoparts.com/prod_0027.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "3.6 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "interstate",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0028",
+      "name": "Interstate AGM Battery - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 213.27,
+      "description": "High-quality agm battery from Interstate. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Interstate",
+      "rating": 4.0,
+      "reviews_count": 372,
+      "in_stock": true,
+      "stock_quantity": 89,
+      "image_url": "https://images.autoparts.com/prod_0028.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "4.6 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "interstate",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0029",
+      "name": "DieHard AGM Battery",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 349.81,
+      "description": "High-quality agm battery from DieHard. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "DieHard",
+      "rating": 3.6,
+      "reviews_count": 291,
+      "in_stock": true,
+      "stock_quantity": 81,
+      "image_url": "https://images.autoparts.com/prod_0029.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "diehard",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0030",
+      "name": "DieHard AGM Battery - Model 2",
+      "category": "automotive_parts",
+      "subcategory": "batteries",
+      "price": 327.28,
+      "description": "High-quality agm battery from DieHard. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "DieHard",
+      "rating": 3.8,
+      "reviews_count": 408,
+      "in_stock": true,
+      "stock_quantity": 34,
+      "image_url": "https://images.autoparts.com/prod_0030.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "2.8 lbs"
+      },
+      "tags": [
+        "automotive_parts",
+        "batteries",
+        "diehard",
+        "maintenance",
+        "replacement",
+        "OEM",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0031",
+      "name": "Valvoline Complete Oil Change Kit",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 62.66,
+      "description": "High-quality complete oil change kit from Valvoline. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Valvoline",
+      "rating": 4.4,
+      "reviews_count": 127,
+      "in_stock": true,
+      "stock_quantity": 10,
+      "image_url": "https://images.autoparts.com/prod_0031.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "4.7 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "valvoline",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0032",
+      "name": "Valvoline Complete Oil Change Kit - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 45.74,
+      "description": "High-quality complete oil change kit from Valvoline. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Valvoline",
+      "rating": 4.7,
+      "reviews_count": 286,
+      "in_stock": true,
+      "stock_quantity": 2,
+      "image_url": "https://images.autoparts.com/prod_0032.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.7 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "valvoline",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0033",
+      "name": "Castrol Complete Oil Change Kit",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 79.97,
+      "description": "High-quality complete oil change kit from Castrol. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Castrol",
+      "rating": 4.4,
+      "reviews_count": 377,
+      "in_stock": false,
+      "stock_quantity": 100,
+      "image_url": "https://images.autoparts.com/prod_0033.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.5 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "castrol",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0034",
+      "name": "Castrol Complete Oil Change Kit - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 40.95,
+      "description": "High-quality complete oil change kit from Castrol. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Castrol",
+      "rating": 4.6,
+      "reviews_count": 437,
+      "in_stock": true,
+      "stock_quantity": 15,
+      "image_url": "https://images.autoparts.com/prod_0034.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "3.4 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "castrol",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0035",
+      "name": "Shell Complete Oil Change Kit",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 58.66,
+      "description": "High-quality complete oil change kit from Shell. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Shell",
+      "rating": 4.5,
+      "reviews_count": 231,
+      "in_stock": true,
+      "stock_quantity": 29,
+      "image_url": "https://images.autoparts.com/prod_0035.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "3.5 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "shell",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0036",
+      "name": "Shell Complete Oil Change Kit - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "oil_change_kits",
+      "price": 42.07,
+      "description": "High-quality complete oil change kit from Shell. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Shell",
+      "rating": 3.9,
+      "reviews_count": 145,
+      "in_stock": true,
+      "stock_quantity": 30,
+      "image_url": "https://images.autoparts.com/prod_0036.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "1.8 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "oil_change_kits",
+        "shell",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0037",
+      "name": "AstroAI Digital Tire Pressure Gauge",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 20.11,
+      "description": "High-quality digital tire pressure gauge from AstroAI. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AstroAI",
+      "rating": 3.7,
+      "reviews_count": 221,
+      "in_stock": true,
+      "stock_quantity": 39,
+      "image_url": "https://images.autoparts.com/prod_0037.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.8 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "astroai",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0038",
+      "name": "AstroAI Digital Tire Pressure Gauge - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 18.12,
+      "description": "High-quality digital tire pressure gauge from AstroAI. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AstroAI",
+      "rating": 3.5,
+      "reviews_count": 169,
+      "in_stock": true,
+      "stock_quantity": 97,
+      "image_url": "https://images.autoparts.com/prod_0038.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.7 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "astroai",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0039",
+      "name": "JACO Digital Tire Pressure Gauge",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 24.86,
+      "description": "High-quality digital tire pressure gauge from JACO. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "JACO",
+      "rating": 3.9,
+      "reviews_count": 392,
+      "in_stock": true,
+      "stock_quantity": 19,
+      "image_url": "https://images.autoparts.com/prod_0039.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "2.2 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "jaco",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0040",
+      "name": "JACO Digital Tire Pressure Gauge - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 16.93,
+      "description": "High-quality digital tire pressure gauge from JACO. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "JACO",
+      "rating": 4.8,
+      "reviews_count": 411,
+      "in_stock": false,
+      "stock_quantity": 23,
+      "image_url": "https://images.autoparts.com/prod_0040.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.3 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "jaco",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0041",
+      "name": "Rhino USA Digital Tire Pressure Gauge",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 31.08,
+      "description": "High-quality digital tire pressure gauge from Rhino USA. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Rhino USA",
+      "rating": 3.6,
+      "reviews_count": 72,
+      "in_stock": false,
+      "stock_quantity": 11,
+      "image_url": "https://images.autoparts.com/prod_0041.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "rhino usa",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0042",
+      "name": "Rhino USA Digital Tire Pressure Gauge - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "tire_pressure_gauges",
+      "price": 32.63,
+      "description": "High-quality digital tire pressure gauge from Rhino USA. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Rhino USA",
+      "rating": 5.0,
+      "reviews_count": 89,
+      "in_stock": false,
+      "stock_quantity": 57,
+      "image_url": "https://images.autoparts.com/prod_0042.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.0 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "tire_pressure_gauges",
+        "rhino usa",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0043",
+      "name": "BlueDriver OBD2 Scanner",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 85.66,
+      "description": "High-quality obd2 scanner from BlueDriver. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "BlueDriver",
+      "rating": 3.9,
+      "reviews_count": 118,
+      "in_stock": true,
+      "stock_quantity": 57,
+      "image_url": "https://images.autoparts.com/prod_0043.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "CAN, ISO, KWP",
+        "display": "LCD",
+        "warranty": "4 years",
+        "weight": "2.8 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "bluedriver",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0044",
+      "name": "BlueDriver OBD2 Scanner - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 113.52,
+      "description": "High-quality obd2 scanner from BlueDriver. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "BlueDriver",
+      "rating": 4.2,
+      "reviews_count": 88,
+      "in_stock": true,
+      "stock_quantity": 6,
+      "image_url": "https://images.autoparts.com/prod_0044.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "All Protocols",
+        "display": "Color Screen",
+        "warranty": "1 years",
+        "weight": "4.1 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "bluedriver",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0045",
+      "name": "Autel OBD2 Scanner",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 66.54,
+      "description": "High-quality obd2 scanner from Autel. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Autel",
+      "rating": 3.8,
+      "reviews_count": 205,
+      "in_stock": true,
+      "stock_quantity": 55,
+      "image_url": "https://images.autoparts.com/prod_0045.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "All Protocols",
+        "display": "Mobile App",
+        "warranty": "4 years",
+        "weight": "0.9 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "autel",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0046",
+      "name": "Autel OBD2 Scanner - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 118.17,
+      "description": "High-quality obd2 scanner from Autel. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Autel",
+      "rating": 3.7,
+      "reviews_count": 273,
+      "in_stock": true,
+      "stock_quantity": 66,
+      "image_url": "https://images.autoparts.com/prod_0046.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "CAN, ISO, KWP",
+        "display": "LCD",
+        "warranty": "2 years",
+        "weight": "4.6 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "autel",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0047",
+      "name": "Launch OBD2 Scanner",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 98.58,
+      "description": "High-quality obd2 scanner from Launch. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Launch",
+      "rating": 4.8,
+      "reviews_count": 327,
+      "in_stock": true,
+      "stock_quantity": 7,
+      "image_url": "https://images.autoparts.com/prod_0047.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "CAN, ISO, KWP",
+        "display": "Color Screen",
+        "warranty": "4 years",
+        "weight": "1.6 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "launch",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0048",
+      "name": "Launch OBD2 Scanner - Model 2",
+      "category": "maintenance_tools",
+      "subcategory": "diagnostic_tools",
+      "price": 70.25,
+      "description": "High-quality obd2 scanner from Launch. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Launch",
+      "rating": 4.6,
+      "reviews_count": 116,
+      "in_stock": true,
+      "stock_quantity": 93,
+      "image_url": "https://images.autoparts.com/prod_0048.jpg",
+      "specifications": {
+        "compatibility": "OBD2",
+        "protocols": "CAN, ISO, KWP",
+        "display": "Color Screen",
+        "warranty": "1 years",
+        "weight": "0.8 lbs"
+      },
+      "tags": [
+        "maintenance_tools",
+        "diagnostic_tools",
+        "launch",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0049",
+      "name": "Chemical Guys Car Care Kit",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 32.15,
+      "description": "High-quality car care kit from Chemical Guys. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Chemical Guys",
+      "rating": 4.8,
+      "reviews_count": 142,
+      "in_stock": true,
+      "stock_quantity": 78,
+      "image_url": "https://images.autoparts.com/prod_0049.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.7 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "chemical guys",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0050",
+      "name": "Chemical Guys Car Care Kit - Model 2",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 29.63,
+      "description": "High-quality car care kit from Chemical Guys. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Chemical Guys",
+      "rating": 4.0,
+      "reviews_count": 327,
+      "in_stock": true,
+      "stock_quantity": 44,
+      "image_url": "https://images.autoparts.com/prod_0050.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "2.7 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "chemical guys",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0051",
+      "name": "Meguiars Car Care Kit",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 32.02,
+      "description": "High-quality car care kit from Meguiars. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Meguiars",
+      "rating": 4.5,
+      "reviews_count": 125,
+      "in_stock": false,
+      "stock_quantity": 19,
+      "image_url": "https://images.autoparts.com/prod_0051.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "2.5 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "meguiars",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0052",
+      "name": "Meguiars Car Care Kit - Model 2",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 67.41,
+      "description": "High-quality car care kit from Meguiars. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Meguiars",
+      "rating": 4.9,
+      "reviews_count": 483,
+      "in_stock": true,
+      "stock_quantity": 33,
+      "image_url": "https://images.autoparts.com/prod_0052.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.6 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "meguiars",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0053",
+      "name": "Armor All Car Care Kit",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 42.23,
+      "description": "High-quality car care kit from Armor All. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Armor All",
+      "rating": 3.7,
+      "reviews_count": 348,
+      "in_stock": false,
+      "stock_quantity": 100,
+      "image_url": "https://images.autoparts.com/prod_0053.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "3.4 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "armor all",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0054",
+      "name": "Armor All Car Care Kit - Model 2",
+      "category": "accessories",
+      "subcategory": "car_care_products",
+      "price": 31.04,
+      "description": "High-quality car care kit from Armor All. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Armor All",
+      "rating": 4.3,
+      "reviews_count": 52,
+      "in_stock": true,
+      "stock_quantity": 4,
+      "image_url": "https://images.autoparts.com/prod_0054.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.5 lbs"
+      },
+      "tags": [
+        "accessories",
+        "car_care_products",
+        "armor all",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0055",
+      "name": "Little Trees Premium Air Freshener",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 13.86,
+      "description": "High-quality premium air freshener from Little Trees. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Little Trees",
+      "rating": 4.1,
+      "reviews_count": 456,
+      "in_stock": true,
+      "stock_quantity": 28,
+      "image_url": "https://images.autoparts.com/prod_0055.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.5 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "little trees",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0056",
+      "name": "Little Trees Premium Air Freshener - Model 2",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 21.13,
+      "description": "High-quality premium air freshener from Little Trees. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Little Trees",
+      "rating": 4.0,
+      "reviews_count": 277,
+      "in_stock": true,
+      "stock_quantity": 4,
+      "image_url": "https://images.autoparts.com/prod_0056.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "4.1 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "little trees",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0057",
+      "name": "Febreze Premium Air Freshener",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 10.02,
+      "description": "High-quality premium air freshener from Febreze. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Febreze",
+      "rating": 4.4,
+      "reviews_count": 365,
+      "in_stock": false,
+      "stock_quantity": 19,
+      "image_url": "https://images.autoparts.com/prod_0057.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "4.5 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "febreze",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0058",
+      "name": "Febreze Premium Air Freshener - Model 2",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 10.63,
+      "description": "High-quality premium air freshener from Febreze. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Febreze",
+      "rating": 4.7,
+      "reviews_count": 64,
+      "in_stock": false,
+      "stock_quantity": 82,
+      "image_url": "https://images.autoparts.com/prod_0058.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "0.9 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "febreze",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0059",
+      "name": "California Scents Premium Air Freshener",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 10.83,
+      "description": "High-quality premium air freshener from California Scents. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "California Scents",
+      "rating": 3.5,
+      "reviews_count": 176,
+      "in_stock": true,
+      "stock_quantity": 87,
+      "image_url": "https://images.autoparts.com/prod_0059.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "5.0 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "california scents",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0060",
+      "name": "California Scents Premium Air Freshener - Model 2",
+      "category": "accessories",
+      "subcategory": "air_fresheners",
+      "price": 23.26,
+      "description": "High-quality premium air freshener from California Scents. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "California Scents",
+      "rating": 4.9,
+      "reviews_count": 372,
+      "in_stock": true,
+      "stock_quantity": 24,
+      "image_url": "https://images.autoparts.com/prod_0060.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.7 lbs"
+      },
+      "tags": [
+        "accessories",
+        "air_fresheners",
+        "california scents",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0061",
+      "name": "iOttie Wireless Phone Mount",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 55.21,
+      "description": "High-quality wireless phone mount from iOttie. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "iOttie",
+      "rating": 3.6,
+      "reviews_count": 279,
+      "in_stock": true,
+      "stock_quantity": 71,
+      "image_url": "https://images.autoparts.com/prod_0061.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "2.4 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "iottie",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0062",
+      "name": "iOttie Wireless Phone Mount - Model 2",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 48.85,
+      "description": "High-quality wireless phone mount from iOttie. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "iOttie",
+      "rating": 4.4,
+      "reviews_count": 418,
+      "in_stock": false,
+      "stock_quantity": 58,
+      "image_url": "https://images.autoparts.com/prod_0062.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "2.0 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "iottie",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0063",
+      "name": "Belkin Wireless Phone Mount",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 42.13,
+      "description": "High-quality wireless phone mount from Belkin. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Belkin",
+      "rating": 4.9,
+      "reviews_count": 260,
+      "in_stock": true,
+      "stock_quantity": 73,
+      "image_url": "https://images.autoparts.com/prod_0063.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.2 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "belkin",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0064",
+      "name": "Belkin Wireless Phone Mount - Model 2",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 31.76,
+      "description": "High-quality wireless phone mount from Belkin. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Belkin",
+      "rating": 4.5,
+      "reviews_count": 134,
+      "in_stock": false,
+      "stock_quantity": 38,
+      "image_url": "https://images.autoparts.com/prod_0064.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "4.9 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "belkin",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0065",
+      "name": "ESR Wireless Phone Mount",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 31.8,
+      "description": "High-quality wireless phone mount from ESR. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "ESR",
+      "rating": 4.7,
+      "reviews_count": 325,
+      "in_stock": true,
+      "stock_quantity": 59,
+      "image_url": "https://images.autoparts.com/prod_0065.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.3 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "esr",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0066",
+      "name": "ESR Wireless Phone Mount - Model 2",
+      "category": "accessories",
+      "subcategory": "phone_mounts",
+      "price": 50.71,
+      "description": "High-quality wireless phone mount from ESR. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "ESR",
+      "rating": 3.6,
+      "reviews_count": 421,
+      "in_stock": true,
+      "stock_quantity": 85,
+      "image_url": "https://images.autoparts.com/prod_0066.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "2.7 lbs"
+      },
+      "tags": [
+        "accessories",
+        "phone_mounts",
+        "esr",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0067",
+      "name": "Nextbase 4K Dash Camera",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 161.43,
+      "description": "High-quality 4k dash camera from Nextbase. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Nextbase",
+      "rating": 4.7,
+      "reviews_count": 267,
+      "in_stock": true,
+      "stock_quantity": 45,
+      "image_url": "https://images.autoparts.com/prod_0067.jpg",
+      "specifications": {
+        "resolution": "1080p",
+        "field_of_view": "150\u00b0",
+        "storage": "32GB",
+        "warranty": "3 years",
+        "weight": "3.0 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "nextbase",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0068",
+      "name": "Nextbase 4K Dash Camera - Model 2",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 157.54,
+      "description": "High-quality 4k dash camera from Nextbase. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Nextbase",
+      "rating": 4.5,
+      "reviews_count": 294,
+      "in_stock": true,
+      "stock_quantity": 0,
+      "image_url": "https://images.autoparts.com/prod_0068.jpg",
+      "specifications": {
+        "resolution": "2K",
+        "field_of_view": "161\u00b0",
+        "storage": "128GB",
+        "warranty": "2 years",
+        "weight": "0.7 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "nextbase",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0069",
+      "name": "Garmin 4K Dash Camera",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 98.04,
+      "description": "High-quality 4k dash camera from Garmin. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Garmin",
+      "rating": 4.7,
+      "reviews_count": 389,
+      "in_stock": false,
+      "stock_quantity": 88,
+      "image_url": "https://images.autoparts.com/prod_0069.jpg",
+      "specifications": {
+        "resolution": "2K",
+        "field_of_view": "169\u00b0",
+        "storage": "64GB",
+        "warranty": "2 years",
+        "weight": "1.1 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "garmin",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0070",
+      "name": "Garmin 4K Dash Camera - Model 2",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 208.56,
+      "description": "High-quality 4k dash camera from Garmin. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Garmin",
+      "rating": 4.4,
+      "reviews_count": 436,
+      "in_stock": true,
+      "stock_quantity": 3,
+      "image_url": "https://images.autoparts.com/prod_0070.jpg",
+      "specifications": {
+        "resolution": "4K",
+        "field_of_view": "148\u00b0",
+        "storage": "128GB",
+        "warranty": "2 years",
+        "weight": "4.3 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "garmin",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0071",
+      "name": "VAVA 4K Dash Camera",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 209.03,
+      "description": "High-quality 4k dash camera from VAVA. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "VAVA",
+      "rating": 3.8,
+      "reviews_count": 188,
+      "in_stock": true,
+      "stock_quantity": 38,
+      "image_url": "https://images.autoparts.com/prod_0071.jpg",
+      "specifications": {
+        "resolution": "2K",
+        "field_of_view": "157\u00b0",
+        "storage": "32GB",
+        "warranty": "4 years",
+        "weight": "3.5 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "vava",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0072",
+      "name": "VAVA 4K Dash Camera - Model 2",
+      "category": "accessories",
+      "subcategory": "dash_cams",
+      "price": 107.49,
+      "description": "High-quality 4k dash camera from VAVA. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "VAVA",
+      "rating": 4.9,
+      "reviews_count": 434,
+      "in_stock": true,
+      "stock_quantity": 77,
+      "image_url": "https://images.autoparts.com/prod_0072.jpg",
+      "specifications": {
+        "resolution": "2K",
+        "field_of_view": "141\u00b0",
+        "storage": "64GB",
+        "warranty": "4 years",
+        "weight": "1.6 lbs"
+      },
+      "tags": [
+        "accessories",
+        "dash_cams",
+        "vava",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0073",
+      "name": "NOCO Portable Jump Starter",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 131.67,
+      "description": "High-quality portable jump starter from NOCO. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "NOCO",
+      "rating": 4.2,
+      "reviews_count": 380,
+      "in_stock": true,
+      "stock_quantity": 89,
+      "image_url": "https://images.autoparts.com/prod_0073.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "1.9 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "noco",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0074",
+      "name": "NOCO Portable Jump Starter - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 137.2,
+      "description": "High-quality portable jump starter from NOCO. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "NOCO",
+      "rating": 3.5,
+      "reviews_count": 217,
+      "in_stock": true,
+      "stock_quantity": 1,
+      "image_url": "https://images.autoparts.com/prod_0074.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "1.6 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "noco",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0075",
+      "name": "TACKLIFE Portable Jump Starter",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 145.47,
+      "description": "High-quality portable jump starter from TACKLIFE. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "TACKLIFE",
+      "rating": 4.9,
+      "reviews_count": 307,
+      "in_stock": true,
+      "stock_quantity": 93,
+      "image_url": "https://images.autoparts.com/prod_0075.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "tacklife",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0076",
+      "name": "TACKLIFE Portable Jump Starter - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 101.32,
+      "description": "High-quality portable jump starter from TACKLIFE. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "TACKLIFE",
+      "rating": 4.6,
+      "reviews_count": 498,
+      "in_stock": true,
+      "stock_quantity": 80,
+      "image_url": "https://images.autoparts.com/prod_0076.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "2.8 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "tacklife",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0077",
+      "name": "DBPOWER Portable Jump Starter",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 63.37,
+      "description": "High-quality portable jump starter from DBPOWER. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "DBPOWER",
+      "rating": 4.5,
+      "reviews_count": 57,
+      "in_stock": true,
+      "stock_quantity": 93,
+      "image_url": "https://images.autoparts.com/prod_0077.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.4 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "dbpower",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0078",
+      "name": "DBPOWER Portable Jump Starter - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "jump_starters",
+      "price": 129.57,
+      "description": "High-quality portable jump starter from DBPOWER. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "DBPOWER",
+      "rating": 4.3,
+      "reviews_count": 126,
+      "in_stock": false,
+      "stock_quantity": 8,
+      "image_url": "https://images.autoparts.com/prod_0078.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "4.6 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "jump_starters",
+        "dbpower",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0079",
+      "name": "AAA Roadside Emergency Kit",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 50.58,
+      "description": "High-quality roadside emergency kit from AAA. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AAA",
+      "rating": 3.9,
+      "reviews_count": 488,
+      "in_stock": true,
+      "stock_quantity": 19,
+      "image_url": "https://images.autoparts.com/prod_0079.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "aaa",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0080",
+      "name": "AAA Roadside Emergency Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 92.93,
+      "description": "High-quality roadside emergency kit from AAA. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AAA",
+      "rating": 4.6,
+      "reviews_count": 348,
+      "in_stock": true,
+      "stock_quantity": 73,
+      "image_url": "https://images.autoparts.com/prod_0080.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.0 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "aaa",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0081",
+      "name": "Lifeline Roadside Emergency Kit",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 61.22,
+      "description": "High-quality roadside emergency kit from Lifeline. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Lifeline",
+      "rating": 4.4,
+      "reviews_count": 381,
+      "in_stock": true,
+      "stock_quantity": 65,
+      "image_url": "https://images.autoparts.com/prod_0081.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "lifeline",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0082",
+      "name": "Lifeline Roadside Emergency Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 77.38,
+      "description": "High-quality roadside emergency kit from Lifeline. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Lifeline",
+      "rating": 3.8,
+      "reviews_count": 178,
+      "in_stock": true,
+      "stock_quantity": 82,
+      "image_url": "https://images.autoparts.com/prod_0082.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "2.7 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "lifeline",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0083",
+      "name": "Cartman Roadside Emergency Kit",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 45.65,
+      "description": "High-quality roadside emergency kit from Cartman. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Cartman",
+      "rating": 3.7,
+      "reviews_count": 432,
+      "in_stock": true,
+      "stock_quantity": 64,
+      "image_url": "https://images.autoparts.com/prod_0083.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "3.1 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "cartman",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0084",
+      "name": "Cartman Roadside Emergency Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "emergency_kits",
+      "price": 91.46,
+      "description": "High-quality roadside emergency kit from Cartman. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Cartman",
+      "rating": 4.6,
+      "reviews_count": 51,
+      "in_stock": true,
+      "stock_quantity": 96,
+      "image_url": "https://images.autoparts.com/prod_0084.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "2.0 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "emergency_kits",
+        "cartman",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0085",
+      "name": "Johnson & Johnson Auto First Aid Kit",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 55.96,
+      "description": "High-quality auto first aid kit from Johnson & Johnson. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Johnson & Johnson",
+      "rating": 3.7,
+      "reviews_count": 121,
+      "in_stock": true,
+      "stock_quantity": 17,
+      "image_url": "https://images.autoparts.com/prod_0085.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "2.2 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "johnson & johnson",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0086",
+      "name": "Johnson & Johnson Auto First Aid Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 33.76,
+      "description": "High-quality auto first aid kit from Johnson & Johnson. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Johnson & Johnson",
+      "rating": 4.9,
+      "reviews_count": 55,
+      "in_stock": true,
+      "stock_quantity": 84,
+      "image_url": "https://images.autoparts.com/prod_0086.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "5.0 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "johnson & johnson",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0087",
+      "name": "First Aid Only Auto First Aid Kit",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 49.66,
+      "description": "High-quality auto first aid kit from First Aid Only. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "First Aid Only",
+      "rating": 4.4,
+      "reviews_count": 244,
+      "in_stock": true,
+      "stock_quantity": 68,
+      "image_url": "https://images.autoparts.com/prod_0087.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "4.4 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "first aid only",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0088",
+      "name": "First Aid Only Auto First Aid Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 40.1,
+      "description": "High-quality auto first aid kit from First Aid Only. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "First Aid Only",
+      "rating": 4.0,
+      "reviews_count": 102,
+      "in_stock": false,
+      "stock_quantity": 35,
+      "image_url": "https://images.autoparts.com/prod_0088.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "4.9 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "first aid only",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0089",
+      "name": "Be Smart Get Prepared Auto First Aid Kit",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 41.28,
+      "description": "High-quality auto first aid kit from Be Smart Get Prepared. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Be Smart Get Prepared",
+      "rating": 4.2,
+      "reviews_count": 284,
+      "in_stock": true,
+      "stock_quantity": 77,
+      "image_url": "https://images.autoparts.com/prod_0089.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "4.1 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "be smart get prepared",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0090",
+      "name": "Be Smart Get Prepared Auto First Aid Kit - Model 2",
+      "category": "emergency_gear",
+      "subcategory": "first_aid_kits",
+      "price": 31.52,
+      "description": "High-quality auto first aid kit from Be Smart Get Prepared. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Be Smart Get Prepared",
+      "rating": 4.3,
+      "reviews_count": 413,
+      "in_stock": true,
+      "stock_quantity": 28,
+      "image_url": "https://images.autoparts.com/prod_0090.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "3.6 lbs"
+      },
+      "tags": [
+        "emergency_gear",
+        "first_aid_kits",
+        "be smart get prepared",
+        "safety",
+        "emergency",
+        "roadside",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0091",
+      "name": "K&N Cold Air Intake System",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 455.05,
+      "description": "High-quality cold air intake system from K&N. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "K&N",
+      "rating": 3.6,
+      "reviews_count": 299,
+      "in_stock": true,
+      "stock_quantity": 49,
+      "image_url": "https://images.autoparts.com/prod_0091.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.5 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "k&n",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0092",
+      "name": "K&N Cold Air Intake System - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 285.9,
+      "description": "High-quality cold air intake system from K&N. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "K&N",
+      "rating": 4.1,
+      "reviews_count": 255,
+      "in_stock": true,
+      "stock_quantity": 49,
+      "image_url": "https://images.autoparts.com/prod_0092.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.0 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "k&n",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0093",
+      "name": "AEM Cold Air Intake System",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 298.97,
+      "description": "High-quality cold air intake system from AEM. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AEM",
+      "rating": 4.1,
+      "reviews_count": 191,
+      "in_stock": true,
+      "stock_quantity": 94,
+      "image_url": "https://images.autoparts.com/prod_0093.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "1.3 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "aem",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0094",
+      "name": "AEM Cold Air Intake System - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 430.71,
+      "description": "High-quality cold air intake system from AEM. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "AEM",
+      "rating": 3.7,
+      "reviews_count": 62,
+      "in_stock": true,
+      "stock_quantity": 29,
+      "image_url": "https://images.autoparts.com/prod_0094.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "2.2 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "aem",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0095",
+      "name": "Injen Cold Air Intake System",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 381.12,
+      "description": "High-quality cold air intake system from Injen. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Injen",
+      "rating": 4.4,
+      "reviews_count": 140,
+      "in_stock": true,
+      "stock_quantity": 58,
+      "image_url": "https://images.autoparts.com/prod_0095.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "3.4 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "injen",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0096",
+      "name": "Injen Cold Air Intake System - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "cold_air_intakes",
+      "price": 211.18,
+      "description": "High-quality cold air intake system from Injen. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Injen",
+      "rating": 4.0,
+      "reviews_count": 282,
+      "in_stock": true,
+      "stock_quantity": 7,
+      "image_url": "https://images.autoparts.com/prod_0096.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "0.5 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "cold_air_intakes",
+        "injen",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0097",
+      "name": "Bully Dog Performance Chip",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 297.95,
+      "description": "High-quality performance chip from Bully Dog. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bully Dog",
+      "rating": 4.3,
+      "reviews_count": 429,
+      "in_stock": true,
+      "stock_quantity": 18,
+      "image_url": "https://images.autoparts.com/prod_0097.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "1.5 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "bully dog",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0098",
+      "name": "Bully Dog Performance Chip - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 348.71,
+      "description": "High-quality performance chip from Bully Dog. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Bully Dog",
+      "rating": 4.6,
+      "reviews_count": 117,
+      "in_stock": true,
+      "stock_quantity": 12,
+      "image_url": "https://images.autoparts.com/prod_0098.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "2.7 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "bully dog",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0099",
+      "name": "Edge Performance Chip",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 165.24,
+      "description": "High-quality performance chip from Edge. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Edge",
+      "rating": 4.2,
+      "reviews_count": 409,
+      "in_stock": true,
+      "stock_quantity": 83,
+      "image_url": "https://images.autoparts.com/prod_0099.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "5.0 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "edge",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0100",
+      "name": "Edge Performance Chip - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 332.56,
+      "description": "High-quality performance chip from Edge. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Edge",
+      "rating": 3.6,
+      "reviews_count": 408,
+      "in_stock": true,
+      "stock_quantity": 34,
+      "image_url": "https://images.autoparts.com/prod_0100.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "4.0 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "edge",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0101",
+      "name": "SCT Performance Chip",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 289.38,
+      "description": "High-quality performance chip from SCT. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "SCT",
+      "rating": 4.9,
+      "reviews_count": 250,
+      "in_stock": false,
+      "stock_quantity": 23,
+      "image_url": "https://images.autoparts.com/prod_0101.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "2.7 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "sct",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0102",
+      "name": "SCT Performance Chip - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "performance_chips",
+      "price": 187.72,
+      "description": "High-quality performance chip from SCT. Includes 3 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "SCT",
+      "rating": 3.9,
+      "reviews_count": 322,
+      "in_stock": true,
+      "stock_quantity": 45,
+      "image_url": "https://images.autoparts.com/prod_0102.jpg",
+      "specifications": {
+        "warranty": "3 years",
+        "weight": "3.9 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "performance_chips",
+        "sct",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0103",
+      "name": "Borla Cat-Back Exhaust",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 769.46,
+      "description": "High-quality cat-back exhaust from Borla. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Borla",
+      "rating": 4.6,
+      "reviews_count": 118,
+      "in_stock": true,
+      "stock_quantity": 39,
+      "image_url": "https://images.autoparts.com/prod_0103.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "1.5 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "borla",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0104",
+      "name": "Borla Cat-Back Exhaust - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 369.87,
+      "description": "High-quality cat-back exhaust from Borla. Includes 2 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Borla",
+      "rating": 4.0,
+      "reviews_count": 369,
+      "in_stock": true,
+      "stock_quantity": 63,
+      "image_url": "https://images.autoparts.com/prod_0104.jpg",
+      "specifications": {
+        "warranty": "2 years",
+        "weight": "1.2 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "borla",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0105",
+      "name": "Flowmaster Cat-Back Exhaust",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 789.94,
+      "description": "High-quality cat-back exhaust from Flowmaster. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Flowmaster",
+      "rating": 3.9,
+      "reviews_count": 372,
+      "in_stock": true,
+      "stock_quantity": 51,
+      "image_url": "https://images.autoparts.com/prod_0105.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "1.8 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "flowmaster",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0106",
+      "name": "Flowmaster Cat-Back Exhaust - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 409.91,
+      "description": "High-quality cat-back exhaust from Flowmaster. Includes 5 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "Flowmaster",
+      "rating": 3.9,
+      "reviews_count": 58,
+      "in_stock": true,
+      "stock_quantity": 57,
+      "image_url": "https://images.autoparts.com/prod_0106.jpg",
+      "specifications": {
+        "warranty": "5 years",
+        "weight": "1.2 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "flowmaster",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0107",
+      "name": "MagnaFlow Cat-Back Exhaust",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 352.0,
+      "description": "High-quality cat-back exhaust from MagnaFlow. Includes 4 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "MagnaFlow",
+      "rating": 3.9,
+      "reviews_count": 423,
+      "in_stock": true,
+      "stock_quantity": 26,
+      "image_url": "https://images.autoparts.com/prod_0107.jpg",
+      "specifications": {
+        "warranty": "4 years",
+        "weight": "0.9 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "magnaflow",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    },
+    {
+      "product_id": "PROD_0108",
+      "name": "MagnaFlow Cat-Back Exhaust - Model 2",
+      "category": "performance_upgrades",
+      "subcategory": "exhaust_systems",
+      "price": 514.29,
+      "description": "High-quality cat-back exhaust from MagnaFlow. Includes 1 years warranty. Professional installation recommended. Compatible with most vehicle models.",
+      "brand": "MagnaFlow",
+      "rating": 3.5,
+      "reviews_count": 412,
+      "in_stock": true,
+      "stock_quantity": 89,
+      "image_url": "https://images.autoparts.com/prod_0108.jpg",
+      "specifications": {
+        "warranty": "1 years",
+        "weight": "1.7 lbs"
+      },
+      "tags": [
+        "performance_upgrades",
+        "exhaust_systems",
+        "magnaflow",
+        "performance",
+        "upgrade",
+        "tuning",
+        "quality",
+        "reliable",
+        "tested"
+      ]
+    }
+  ]
+}

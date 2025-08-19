@@ -1,0 +1,16 @@
+{
+  "analytics_timestamp": "2025-08-19 09:59:14",
+  "performance_metrics": {
+    "total_carts_created": 1,
+    "total_orders_placed": 1,
+    "total_orders_completed": 1,
+    "conversion_rate": 25.0,
+    "total_revenue": 101.65,
+    "average_order_value": 101.65
+  },
+  "business_insights": {
+    "cart_abandonment_rate": 0.0,
+    "payment_success_rate": 100.0,
+    "estimated_monthly_revenue": 3049.5
+  }
+}

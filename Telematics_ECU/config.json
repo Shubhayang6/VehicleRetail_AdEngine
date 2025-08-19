@@ -1,0 +1,26 @@
+{
+  "kafka": {
+    "bootstrap_servers": ["localhost:9092"],
+    "topics": {
+      "core_sensor": "sensor-data-topic",
+      "vehicle_health": "health-data-topic",
+      "driving_behavior": "behavior-topic",
+      "environmental": "environment-topic"
+    }
+  },
+  "datasets": {
+    "core_sensor_data": "../Dataset/core_sensor_data.csv",
+    "vehicle_health_data": "../Dataset/vehicle_health_data.csv",
+    "driving_behavior_data": "../Dataset/driving_behavior_data.csv",
+    "environmental_data": "../Dataset/environmental_data.csv"
+  },
+  "simulation": {
+    "speed_multiplier": 1,
+    "replay_interval_seconds": 5,
+    "batch_size": 1
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

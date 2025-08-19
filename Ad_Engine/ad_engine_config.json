@@ -1,0 +1,84 @@
+{
+  "recommendation_settings": {
+    "product_categories": {
+      "automotive_parts": ["oil_filters", "air_filters", "brake_pads", "tires", "batteries"],
+      "maintenance_tools": ["oil_change_kits", "tire_pressure_gauges", "diagnostic_tools"],
+      "accessories": ["car_care_products", "air_fresheners", "phone_mounts", "dash_cams"],
+      "emergency_gear": ["jump_starters", "emergency_kits", "first_aid_kits"],
+      "performance_upgrades": ["cold_air_intakes", "performance_chips", "exhaust_systems"]
+    },
+    "recommendation_algorithms": {
+      "behavioral_filtering": {
+        "weight": 0.4,
+        "factors": ["driving_aggressiveness", "eco_driving_score", "maintenance_frequency"]
+      },
+      "contextual_filtering": {
+        "weight": 0.3,
+        "factors": ["location", "weather", "terrain", "time_of_day"]
+      },
+      "health_based_filtering": {
+        "weight": 0.3,
+        "factors": ["engine_health", "brake_health", "tire_health", "maintenance_urgency"]
+      }
+    },
+    "targeting_criteria": {
+      "high_engagement": {
+        "health_score_min": 0.7,
+        "driving_frequency": "regular",
+        "maintenance_compliance": "good"
+      },
+      "maintenance_focused": {
+        "health_score_max": 0.6,
+        "maintenance_urgency_min": 0.4
+      },
+      "performance_oriented": {
+        "driving_aggressiveness_min": 0.6,
+        "speed_preference": "high"
+      }
+    }
+  },
+  "product_catalog": {
+    "pricing_tiers": {
+      "budget": {"min": 10, "max": 50},
+      "standard": {"min": 50, "max": 150},
+      "premium": {"min": 150, "max": 500}
+    },
+    "inventory_simulation": {
+      "stock_levels": "random",
+      "availability_rate": 0.85,
+      "seasonal_variations": true
+    }
+  },
+  "personalization": {
+    "user_segments": {
+      "eco_driver": ["fuel_efficiency", "environmental", "cost_savings"],
+      "performance_enthusiast": ["speed", "power", "upgrades"],
+      "safety_conscious": ["safety", "reliability", "emergency_gear"],
+      "convenience_seeker": ["automation", "comfort", "time_saving"]
+    },
+    "recommendation_limits": {
+      "max_recommendations_per_session": 8,
+      "max_price_per_recommendation": 200,
+      "relevance_threshold": 0.6
+    }
+  },
+  "data_sources": {
+    "input_path": "../Data_Processing/output/ad_engine/ad_input_data.jsonl",
+    "product_database": "products/",
+    "recommendations_output": "recommendations/",
+    "analytics_output": "analytics/"
+  },
+  "marketing_campaigns": {
+    "seasonal": {
+      "winter": ["winter_tires", "antifreeze", "battery_warmers"],
+      "summer": ["cooling_products", "ac_maintenance", "tire_pressure"],
+      "spring": ["car_wash", "detailing", "air_filters"],
+      "fall": ["oil_change", "brake_check", "emergency_kits"]
+    },
+    "promotional": {
+      "new_customer": 0.15,
+      "loyalty_discount": 0.10,
+      "bulk_purchase": 0.20
+    }
+  }
+}

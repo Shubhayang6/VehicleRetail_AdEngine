@@ -1,0 +1,15 @@
+# Telematics ECU Simulator Requirements
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Kafka client
+kafka-python>=2.0.2
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Development and testing
+pytest>=7.0.0
+mock>=4.0.3

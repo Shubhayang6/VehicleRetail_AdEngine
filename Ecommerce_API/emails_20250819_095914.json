@@ -1,0 +1,58 @@
+[
+  {
+    "email_id": "EMAIL_ORD_VEH_025_c3080f9b",
+    "to": "robert.smith@email.com",
+    "subject": "Order Confirmation - ORD_VEH_025_c3080f9b",
+    "template": "order_confirmation",
+    "data": {
+      "customer_name": "Robert Smith",
+      "order_id": "ORD_VEH_025_c3080f9b",
+      "order_total": 101.65,
+      "items": [
+        {
+          "product_id": "PROD_0001",
+          "name": "Mobil 1 Premium Oil Filter",
+          "brand": "Mobil 1",
+          "category": "automotive_parts",
+          "original_price": 22.53,
+          "discount_percent": 10.0,
+          "final_price": 20.277,
+          "quantity": 1,
+          "line_total": 20.277
+        },
+        {
+          "product_id": "PROD_0002",
+          "name": "Mobil 1 Premium Oil Filter - Model 2",
+          "brand": "Mobil 1",
+          "category": "automotive_parts",
+          "original_price": 43.44,
+          "discount_percent": 10.0,
+          "final_price": 39.096,
+          "quantity": 1,
+          "line_total": 39.096
+        },
+        {
+          "product_id": "PROD_0003",
+          "name": "Fram Premium Oil Filter",
+          "brand": "Fram",
+          "category": "automotive_parts",
+          "original_price": 38.61,
+          "discount_percent": 10.0,
+          "final_price": 34.749,
+          "quantity": 1,
+          "line_total": 34.749
+        }
+      ],
+      "tracking_number": "TRACK1951845281",
+      "estimated_delivery": "2025-08-25",
+      "shipping_address": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90210",
+        "country": "USA"
+      }
+    },
+    "scheduled_send": "2025-08-19 09:59:14"
+  }
+]
