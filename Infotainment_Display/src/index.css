@@ -1,0 +1,503 @@
+/* Infotainment Display Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  overflow: hidden;
+  height: 100vh;
+  color: #ffffff;
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+/* Infotainment Frame */
+.infotainment-frame {
+  width: 1280px;
+  height: 720px;
+  margin: 50px auto;
+  background: linear-gradient(145deg, #1e1e1e, #2a2a2a);
+  border-radius: 20px;
+  box-shadow: 
+    0 0 40px rgba(0, 255, 136, 0.3),
+    inset 0 0 20px rgba(255, 255, 255, 0.05);
+  border: 2px solid rgba(0, 255, 136, 0.5);
+  position: relative;
+  overflow: hidden;
+}
+
+.infotainment-screen {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+  border-radius: 18px;
+  position: relative;
+  display: grid;
+  grid-template-areas: 
+    "header header header"
+    "left-panel main-content right-panel"
+    "bottom-controls bottom-controls bottom-controls";
+  grid-template-rows: 80px 1fr 100px;
+  grid-template-columns: 300px 1fr 300px;
+  gap: 10px;
+  padding: 10px;
+}
+
+/* Header Bar */
+.header-bar {
+  grid-area: header;
+  background: linear-gradient(90deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border: 1px solid rgba(0, 255, 136, 0.3);
+}
+
+.vehicle-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.vehicle-logo {
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #00ff88, #00cc6a);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.system-status {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.status-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+}
+
+.status-indicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #00ff88;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* Left Panel - Vehicle Status */
+.left-panel {
+  grid-area: left-panel;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.panel-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #00ff88;
+  text-align: center;
+}
+
+.gauge-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.gauge {
+  text-align: center;
+  position: relative;
+}
+
+.gauge-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto 10px;
+  position: relative;
+  background: conic-gradient(
+    from 0deg,
+    #00ff88 0deg 120deg,
+    rgba(255, 255, 255, 0.1) 120deg 360deg
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gauge-circle::before {
+  content: '';
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: #1a1a1a;
+  border-radius: 50%;
+}
+
+.gauge-value {
+  position: relative;
+  z-index: 1;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.gauge-label {
+  font-size: 12px;
+  color: #888;
+}
+
+/* Main Content Area */
+.main-content {
+  grid-area: main-content;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.content-tabs {
+  display: flex;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px 12px 0 0;
+}
+
+.tab-button {
+  flex: 1;
+  padding: 15px;
+  background: transparent;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border-bottom: 2px solid transparent;
+}
+
+.tab-button.active {
+  color: #00ff88;
+  border-bottom-color: #00ff88;
+  background: rgba(0, 255, 136, 0.1);
+}
+
+.tab-content {
+  padding: 20px;
+  height: calc(100% - 60px);
+  overflow-y: auto;
+}
+
+/* Navigation Tab */
+.navigation-view {
+  display: grid;
+  grid-template-rows: 200px 1fr;
+  gap: 20px;
+  height: 100%;
+}
+
+.map-display {
+  background: linear-gradient(45deg, #2a5298, #1e3c72);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.route-info {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 15px;
+}
+
+.route-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Media Tab */
+.media-view {
+  text-align: center;
+  padding: 40px;
+}
+
+.now-playing {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.album-art {
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 12px;
+  margin: 0 auto 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.song-info h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.song-info p {
+  color: #888;
+  font-size: 14px;
+}
+
+.media-controls {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.control-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(0, 255, 136, 0.2);
+  border: 1px solid #00ff88;
+  color: #00ff88;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.control-btn:hover {
+  background: rgba(0, 255, 136, 0.4);
+  transform: scale(1.1);
+}
+
+/* Right Panel - Advertisements */
+.right-panel {
+  grid-area: right-panel;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.ad-container {
+  margin-bottom: 20px;
+}
+
+.ad-banner {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.ad-banner:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.ad-banner.promotion {
+  background: linear-gradient(135deg, #ffa502, #ff6348);
+}
+
+.ad-banner.service {
+  background: linear-gradient(135deg, #00ff88, #00cc6a);
+}
+
+.ad-title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.ad-description {
+  font-size: 12px;
+  opacity: 0.9;
+  margin-bottom: 8px;
+}
+
+.ad-price {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* Bottom Controls */
+.bottom-controls {
+  grid-area: bottom-controls;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 0 30px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.climate-controls {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.climate-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.climate-value {
+  font-size: 18px;
+  font-weight: bold;
+  color: #00ff88;
+}
+
+.climate-label {
+  font-size: 12px;
+  color: #888;
+}
+
+.quick-actions {
+  display: flex;
+  gap: 15px;
+}
+
+.action-btn {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(0, 255, 136, 0.1);
+  border: 1px solid #00ff88;
+  color: #00ff88;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+
+.action-btn:hover {
+  background: rgba(0, 255, 136, 0.3);
+  transform: scale(1.1);
+}
+
+.action-btn.active {
+  background: #00ff88;
+  color: #000;
+}
+
+/* Loading Animation */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 18px;
+  color: #00ff88;
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(0, 255, 136, 0.3);
+  border-top: 3px solid #00ff88;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-right: 15px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Animations */
+.slide-in {
+  animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Responsive Design */
+@media (max-width: 1400px) {
+  .infotainment-frame {
+    width: 90vw;
+    height: 60vh;
+    margin: 20px auto;
+  }
+}
+
+@media (max-width: 1024px) {
+  .infotainment-screen {
+    grid-template-areas: 
+      "header header"
+      "main-content right-panel"
+      "bottom-controls bottom-controls";
+    grid-template-columns: 2fr 1fr;
+  }
+  
+  .left-panel {
+    display: none;
+  }
+}
