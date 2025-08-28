@@ -19,7 +19,9 @@ requests==2.31.0
 
 # Utilities
 python-dotenv==1.0.0
-datetime
 
 # Development
 pytest==7.4.2
+
+# Data streaming (compatible with modern Python)
+kafka-python==2.0.2
